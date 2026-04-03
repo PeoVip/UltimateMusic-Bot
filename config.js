@@ -22,7 +22,7 @@ class EnterpriseConfigurationManager {
                 token: EnvironmentVariableProcessor.TOKEN || "MTEyMDM3MjU1Mjg2NzUyODc4OA.GLUD9A.DpwQT7YTqaFl53UUaAhKs4FHNC3V09R3s30k2o"
             },
             mongodb: {
-                uri: EnvironmentVariableProcessor.MONGODB_URI || ""  
+                uri: EnvironmentVariableProcessor.MONGODB_URI || "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority"  
             },
             
             /**
